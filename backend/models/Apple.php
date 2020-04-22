@@ -21,7 +21,7 @@ class Apple extends \yii\db\ActiveRecord
 
     const STATUS_ON_TREE_LABEL = 'На дереве';
     const STATUS_DROPPED_LABEL = 'Упало';
-    const STATUS_ROTTEN_LABEL = 'Упало';
+    const STATUS_ROTTEN_LABEL = 'Гнилое';
 
     /**
      * {@inheritdoc}
